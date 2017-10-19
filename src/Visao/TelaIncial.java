@@ -29,9 +29,7 @@ public class TelaIncial extends javax.swing.JFrame
         this.listCot = listCot;
     }
 
-    /**
-     * Creates new form TelaIncial
-     */
+    
     public TelaIncial()
     {
         initComponents();
